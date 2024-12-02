@@ -18,6 +18,8 @@
 
 To use `react-react-native-not-rapid-click`, simply install it via npm or yarn:
 
+```
+
 ### Using npm:
 ```bash
 npm install react-react-native-not-rapid-click

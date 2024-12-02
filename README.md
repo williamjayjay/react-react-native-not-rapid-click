@@ -30,6 +30,11 @@ npm install react-react-native-not-rapid-click
 yarn add react-react-native-not-rapid-click
 ```
 
+### Using Bun:
+```bash
+bun add react-react-native-not-rapid-click
+```
+
 ## Usage
 
 Once installed, you can import and use the `useNotRapidClick` hook in your React or React Native components.

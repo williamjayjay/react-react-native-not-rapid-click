@@ -1,6 +1,6 @@
 {
     "name": "react-react-native-not-rapid-click",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Custom hook for preventing rapid click actions in React and React Native",
     "main": "dist/index.js",
     "types": "index.d.ts",

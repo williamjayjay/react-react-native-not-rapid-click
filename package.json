@@ -3,7 +3,7 @@
     "version": "1.0.2",
     "description": "Custom hook for preventing rapid click actions in React and React Native",
     "main": "dist/index.js",
-    "types": "index.d.ts",
+    "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsc",
         "test": "echo \"No tests specified\" && exit 0",

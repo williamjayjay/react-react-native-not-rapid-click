@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
-    "target": "ES2017",                  // Suporte moderno e compatível com React Native
-    "module": "ESNext",                  // Módulo moderno para suportar bundlers
-    "moduleResolution": "node",          // Resolve módulos como o Node.js
-    "strict": true,                      // Habilita verificação de tipo rigorosa
-    "esModuleInterop": true,             // Suporte para interop de módulos ES
-    "outDir": "./dist",                  // Diretório de saída dos arquivos compilados
-    "rootDir": "./src",                  // Diretório raiz do código-fonte
-    "declaration": true,                 // Gera arquivos .d.ts para tipos
-    "skipLibCheck": true                 // Evita problemas com tipos de bibliotecas de terceiros
+    "target": "ES2017",                  
+    "module": "ESNext",                  
+    "moduleResolution": "node",          
+    "strict": true,                      
+    "esModuleInterop": true,             
+    "outDir": "./dist",                  
+    "rootDir": "./src",                  
+    "declaration": true,                 
+    "skipLibCheck": true                 
   },
   "include": ["src"]
 }
